@@ -4,6 +4,8 @@
         "set": "cpp",
         "format": "cpp",
         "functional": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp"
     }
 }
