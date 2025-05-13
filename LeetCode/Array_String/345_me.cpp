@@ -9,6 +9,7 @@ int main()
     string s;
     cin >> s;
 
+    
     vector<char> vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
     vector<char> temp;
 

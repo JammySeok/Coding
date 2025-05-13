@@ -6,6 +6,10 @@
         "functional": "cpp",
         "iostream": "cpp",
         "unordered_set": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "algorithm": "cpp"
     }
 }
