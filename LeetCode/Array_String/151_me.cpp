@@ -19,7 +19,8 @@ int main()
                 dq.push_front(temp);
                 temp = "";
             }
-        } else {
+        } 
+        else {
             temp += s[i];
         }
     }
